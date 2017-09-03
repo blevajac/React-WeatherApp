@@ -1,3 +1,14 @@
+# Overview
+
+Andrew Mead's Courses on React.JS, Meteor and many more.  
+Each project folder contains App-s developed with the help of the course material.
+
+## Courses:
+### Udemy - The Complete React Web App Developer Course
+(_Course no longer exists_)
+
+***
+
 # React - WeatherApp
 
 An application designed to test and engage various React.JS libraries, modules and possibilities.  
